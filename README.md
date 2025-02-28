@@ -39,7 +39,7 @@
 
 ## 4. Sơ Đồ Thuật Toán/Sơ Đồ Tuần Tự
 ### 4.1. Sơ Đồ Tuần Tự Đăng Ký
-![Cấu trúc chức năng](https://raw.githubusercontent.com//WebNC-N07\ES_CD57\register.jpg)
+![Cấu trúc chức năng](blob:https://www.facebook.com/063f907b-d564-4d9d-9a9d-d7f893d3a081)
 
 ### 4.2. Sơ Đồ Tuần Tự Đăng Nhập
 ![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07\ES_CD57\login.png)

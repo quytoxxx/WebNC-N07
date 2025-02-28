@@ -32,26 +32,26 @@
 
 *Hình ảnh minh họa sơ đồ cấu trúc và chức năng của ứng dụng:*
 
-![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07/ES_CD57/admin.png)
-![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07/ES_CD57/user.png)
+![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211846.png)
+![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211524.png)
 
 ---
 
 ## 4. Sơ Đồ Thuật Toán/Sơ Đồ Tuần Tự
 ### 4.1. Sơ Đồ Tuần Tự Đăng Ký
-![Cấu trúc chức năng](blob:https://www.facebook.com/063f907b-d564-4d9d-9a9d-d7f893d3a081)
+![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211549.png)
 
 ### 4.2. Sơ Đồ Tuần Tự Đăng Nhập
-![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07/ES_CD57/login.png)
+![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211602.png)
 
 ### 4.3. Sơ Đồ Tuần Tự Tìm Kiếm Sản Phẩm 
-![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07/ES_CD57/search.png)
+![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211602.png)
 
 ### 4.4. Sơ Đồ Tuần Tự Giỏ Hàng 
-![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07/ES_CD57/quanlygiohang.png)
+![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211624.png)
 
 ### 4.5. Sơ Đồ Tuần Tự Quản Lý Sản Phẩm
-![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07/ES_CD57/quanlysanpham.png)
+![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211642.png)
 
 ### 4.6. Sơ Đồ Tuần Tự Quản Lý Đơn Hàng
-![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07/ES_CD57/quanlydonhang.png)
+![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211650.png)

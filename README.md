@@ -1,6 +1,6 @@
 # Ứng Dụng Thương Mại Điện Tử Bán Quần Áo
 
-Ứng dụng thương mại điện tử bán quần áo được xây dựng bằng Laravel 11 . Dự án cung cấp giao diện thân thiện cho người dùng và hệ thống quản trị cho admin, bao gồm các chức năng cơ bản như xem sản phẩm, tìm kiếm, giỏ hàng, đặt hàng và quản lý sản phẩm, danh mục, đơn hàng.
+Ứng dụng thương mại điện tử bán quần áo được xây dựng bằng Laravel . Dự án cung cấp giao diện thân thiện cho người dùng và hệ thống quản trị cho admin, bao gồm các chức năng cơ bản như xem sản phẩm, tìm kiếm, giỏ hàng, đặt hàng và quản lý sản phẩm, danh mục, đơn hàng.
 
 ---
 

@@ -32,8 +32,8 @@
 
 *Hình ảnh minh họa sơ đồ cấu trúc và chức năng của ứng dụng:*
 
-![Cấu trúc chức năng](blob:https://www.facebook.com/063f907b-d564-4d9d-9a9d-d7f893d3a081)
-![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07\ES_CD57\user.png)
+![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07/ES_CD57/admin.png)
+![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07/ES_CD57/user.png)
 
 ---
 
@@ -42,16 +42,16 @@
 ![Cấu trúc chức năng](blob:https://www.facebook.com/063f907b-d564-4d9d-9a9d-d7f893d3a081)
 
 ### 4.2. Sơ Đồ Tuần Tự Đăng Nhập
-![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07\ES_CD57\login.png)
+![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07/ES_CD57/login.png)
 
 ### 4.3. Sơ Đồ Tuần Tự Tìm Kiếm Sản Phẩm 
-![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07\ES_CD57\search.png)
+![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07/ES_CD57/search.png)
 
 ### 4.4. Sơ Đồ Tuần Tự Giỏ Hàng 
-![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07\ES_CD57\quanlygiohang.png)
+![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07/ES_CD57/quanlygiohang.png)
 
 ### 4.5. Sơ Đồ Tuần Tự Quản Lý Sản Phẩm
-![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07\ES_CD57\quanlysanpham.png)
+![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07/ES_CD57/quanlysanpham.png)
 
 ### 4.6. Sơ Đồ Tuần Tự Quản Lý Đơn Hàng
-![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07\ES_CD57\quanlydonhang.png)
+![Cấu trúc chức năng](https://raw.githubusercontent.com/WebNC-N07/ES_CD57/quanlydonhang.png)

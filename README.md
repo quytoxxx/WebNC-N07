@@ -1,6 +1,6 @@
-# Ứng Dụng Thương Mại Điện Tử Bán Balo
+# Ứng Dụng Thương Mại Điện Tử Bán Quần Áo
 
-Ứng dụng thương mại điện tử bán balo được xây dựng bằng **Laravel 11** . Dự án cung cấp giao diện thân thiện cho người dùng và hệ thống quản trị cho admin, bao gồm các chức năng cơ bản như xem sản phẩm, tìm kiếm, giỏ hàng, đặt hàng và quản lý sản phẩm, danh mục, đơn hàng.
+Ứng dụng thương mại điện tử bán quần áo được xây dựng bằng Laravel 11 . Dự án cung cấp giao diện thân thiện cho người dùng và hệ thống quản trị cho admin, bao gồm các chức năng cơ bản như xem sản phẩm, tìm kiếm, giỏ hàng, đặt hàng và quản lý sản phẩm, danh mục, đơn hàng.
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-### 3.1. Sơ Đồ Cấu Trúc/Chức Năng
+### 3.1. Biểu Đồ Của Hệ Thống
 
 *Hình ảnh minh họa sơ đồ cấu trúc và chức năng của ứng dụng:*
 
@@ -37,21 +37,21 @@
 
 ---
 
-## 4. Sơ Đồ Thuật Toán/Sơ Đồ Tuần Tự
-### 4.1. Sơ Đồ Tuần Tự Đăng Ký
+## 4. 3.3	Mô tả chi tiết các chức năng chính của hệ thống
+### 4.1. Chức Năng Đăng Ký
 ![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211549.png)
 
-### 4.2. Sơ Đồ Tuần Tự Đăng Nhập
+### 4.2. Chức Năng Đăng Nhập
 ![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211602.png)
 
-### 4.3. Sơ Đồ Tuần Tự Tìm Kiếm Sản Phẩm 
+### 4.3. Chức Năng Tìm Kiếm Sản Phẩm 
 ![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211602.png)
 
-### 4.4. Sơ Đồ Tuần Tự Giỏ Hàng 
+### 4.4. Chức Năng Giỏ Hàng 
 ![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211624.png)
 
-### 4.5. Sơ Đồ Tuần Tự Quản Lý Sản Phẩm
+### 4.5. Chức Năng Quản Lý Sản Phẩm
 ![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211642.png)
 
-### 4.6. Sơ Đồ Tuần Tự Quản Lý Đơn Hàng
+### 4.6. Chức Năng Quản Lý Đơn Hàng
 ![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211650.png)

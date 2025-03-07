@@ -45,7 +45,7 @@
 ![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211602.png)
 
 ### 4.3. Chức Năng Tìm Kiếm Sản Phẩm 
-![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211602.png)
+![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211615.png)
 
 ### 4.4. Chức Năng Giỏ Hàng 
 ![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211624.png)

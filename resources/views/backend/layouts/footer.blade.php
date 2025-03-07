@@ -2,7 +2,7 @@
 <footer class="sticky-footer bg-white">
     <div class="container my-auto">
         <div class="copyright text-center my-auto">
-            <span>Copyright &copy; <a href="https://www.facebook.com/" target="_blank">Nguyễn Thành Trung</a>
+            <span>Copyright &copy; <a href="https://www.facebook.com/" target="_blank"></a>
                 {{ date('Y') }}</span>
         </div>
     </div>
